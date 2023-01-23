@@ -19,24 +19,26 @@ There are some more problems presented by the company which your model should be
 These problems are provided in a separate doc file. Please fill it based on the logistic regression model you got in the first step. Also, make sure you include this in your final PPT where you'll make recommendations.
  
 ## Steps Followed
-- Importing the data
+- Importing required libraries.
 
 - Reading and understanding the data
+
+- Data inspection and basic sanity check
 
 - Cleaning Data
 
 - EDA
 
-- Feature Scaling
+-  Data Preparation and Features Selection
 
-- Splitting data into train and test dataset
+- Train-Test Split
 
-- Building Model
+- Model Building
 
 - Model Evaluation
 
 - Prediction on test set
- 
+
 ## Details of files given
 
 - Lead Scoring Case Study.ipynb : The python commented file showing coding and data analysis including detailed comments.
