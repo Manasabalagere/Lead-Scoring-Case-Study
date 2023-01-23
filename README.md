@@ -21,28 +21,28 @@ These problems are provided in a separate doc file. Please fill it based on the 
 ## Steps Followed
 - Importing the data
 
--Reading and understanding the data
+- Reading and understanding the data
 
--Cleaning Data
+- Cleaning Data
 
--EDA
+- EDA
 
--Feature Scaling
+- Feature Scaling
 
--Splitting data into train and test dataset
+- Splitting data into train and test dataset
 
--Building Model
+- Building Model
 
--Model Evaluation
+- Model Evaluation
 
--Prediction on test set
+- Prediction on test set
  
 ## Details of files given
 
--Lead Scoring Case Study.ipynb : The python commented file showing coding and data analysis including detailed comments.
+- Lead Scoring Case Study.ipynb : The python commented file showing coding and data analysis including detailed comments.
 
--Lead Scoring - Assingment Questions.pdf : Answered Subjective Questions
+- Lead Scoring - Assingment Questions.pdf : Answered Subjective Questions
 
--Lead Score PPt.pdf : Final Presentation to present the analysis to the chief data scientist of the company 
+- Lead Score PPt.pdf : Final Presentation to present the analysis to the chief data scientist of the company 
 
--Lead Scoring Summary.pdf : the summary report
+- Lead Scoring Summary.pdf : the summary report
