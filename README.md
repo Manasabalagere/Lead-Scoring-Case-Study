@@ -19,27 +19,23 @@ There are some more problems presented by the company which your model should be
 These problems are provided in a separate doc file. Please fill it based on the logistic regression model you got in the first step. Also, make sure you include this in your final PPT where you'll make recommendations.
  
 ## Steps Followed
--Reading Data
+- Importing the data
+
+-Reading and understanding the data
 
 -Cleaning Data
 
 -EDA
 
--Creating Dummy
+-Feature Scaling
 
--Splitting data into train and test set
+-Splitting data into train and test dataset
 
 -Building Model
 
--Making Predictions
-
 -Model Evaluation
 
--ROC Curve
-
 -Prediction on test set
-
--Precision- Recall
  
 ## Details of files given
 
