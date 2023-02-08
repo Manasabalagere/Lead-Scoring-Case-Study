@@ -48,3 +48,7 @@ These problems are provided in a separate doc file. Please fill it based on the 
 - Lead Score PPt.pdf : Final Presentation to present the analysis to the chief data scientist of the company 
 
 - Lead Scoring Summary.pdf : the summary report
+
+- Leads.csv : Dataset
+
+- Leads Data Dictionary : Data Dictionary
